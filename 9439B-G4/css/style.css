@@ -175,6 +175,7 @@
 		text-align: right;
 		top: 0;
 		width: 35%;
+        text-align: center;
 	}
 
 		
@@ -182,7 +183,6 @@
 			margin: 0 0 1em 0;
 			width: 6.25em;
 		}
-
 
 
 /* Main */
@@ -204,7 +204,20 @@
     text-align: center;
 }
 
+#main h3{
+    text-align: center;
+    font-size: 150%
+}
 
+#main h4{
+    text-align: center;
+    font-size: 150%
+}
+
+#main h5{
+    text-align: center;
+    font-size: 150%
+}
 
 	
 /* XLarge */
