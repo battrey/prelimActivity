@@ -44,7 +44,7 @@
 /* Basic */
 	body {
 		background: #fff;
-		color: #a2a2a2;
+		color: #838383;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 100;
 		font-weight: 600;
@@ -65,8 +65,6 @@
 		display: inline-block;
 		position: relative;
 	}
-
-		
 
 		.image img {
 			border-radius: 0.35em;
@@ -291,7 +289,6 @@
 					}
 
 		
-
 		/* Main */
 
 			#main {
@@ -299,8 +296,6 @@
 				padding: 6em 4em;
 				width: 100%;
 			}
-
-	}
 
 /* Small */
 
@@ -372,4 +367,5 @@
 				}
 
 	}
+
 </style>
