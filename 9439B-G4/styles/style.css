@@ -57,11 +57,6 @@
 		text-align: center;
 	}
 
-	
-
-
-
-
 /* Image */
 
 	.image {
@@ -202,7 +197,7 @@
     text-align: center;
 }
 
-#main h3{
+#main {
     text-align: center;
     font-size: 150%
 }
@@ -335,9 +330,7 @@
 			header.major h2 {
 				font-size: 1.35em;
 			}
-
-		
-
+      
 		/* Header */
 
 			#header {
