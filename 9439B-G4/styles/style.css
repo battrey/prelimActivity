@@ -1,8 +1,8 @@
 <style>	
     {
-		margin: 0;
-		padding: 0;
-		border: 0;
+		margin: 0%;
+		padding: 0%;
+		border: 0%;
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
@@ -46,7 +46,7 @@
 		background: #fff;
 		color: #838383;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 100;
+		font-size: 100%;
 		font-weight: 600;
 		line-height: 2em;
 	}
@@ -367,5 +367,5 @@
 				}
 
 	}
-
+        
 </style>
